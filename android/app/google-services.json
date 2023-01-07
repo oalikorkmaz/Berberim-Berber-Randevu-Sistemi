@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745792389776",
+    "project_id": "berber-yeni",
+    "storage_bucket": "berber-yeni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745792389776:android:e0fd2d3c7964507773ce15",
+        "android_client_info": {
+          "package_name": "com.example.berber_yeni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745792389776-0cr301pmah93t7fsev3j5amkpiufbhii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMzc5f3BcCXpoCkordbiSYXCkWt0Y-6Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745792389776-0cr301pmah93t7fsev3j5amkpiufbhii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
